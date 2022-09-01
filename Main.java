@@ -3,6 +3,7 @@ class Main {
   
   public static void main(String[] args) {
 
+    
     int lim;
     Scanner in = new Scanner(System.in);
     System.out.println("introduce el limite");
